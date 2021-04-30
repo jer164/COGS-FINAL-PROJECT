@@ -1,0 +1,111 @@
+#Total No. of Cluster Types: 109
+#Total No. of Cluster Tokens: 347
+1	112	1	red pilled
+2	47	1	red-pilled
+3	18	1	black pilled
+4	15	1	poison pilled
+5	11	1	blue pilled
+6	8	1	q-pilled
+7	6	1	black-pilled
+8	6	1	poison-pilled
+9	4	1	gold pilled
+10	4	1	was pilled
+11	3	1	being pilled
+12	3	1	or pilled
+13	3	1	q pilled
+14	3	1	super pilled
+15	2	1	all pilled
+16	2	1	been pilled
+17	2	1	biden-pilled
+18	2	1	dog pilled
+19	2	1	doom-pilled
+20	2	1	got pilled
+21	2	1	green pilled
+22	2	1	have pilled
+23	2	1	with pilled
+24	1	1	after pilled
+25	1	1	also pilled
+26	1	1	and pilled
+27	1	1	are pilled
+28	1	1	as pilled
+29	1	1	astroturf-pilled
+30	1	1	baguette-pilled
+31	1	1	banned-pilled
+32	1	1	bear pilled
+33	1	1	bernie pilled
+34	1	1	bill-pilled
+35	1	1	blue-pilled
+36	1	1	boxes pilled
+37	1	1	brain-pilled
+38	1	1	brunch pilled
+39	1	1	buncha pilled
+40	1	1	bussy pilled
+41	1	1	ccp-pilled
+42	1	1	chad pilled
+43	1	1	chomsky-pilled
+44	1	1	chugging pilled
+45	1	1	chungus pilled
+46	1	1	cops pilled
+47	1	1	cori pilled
+48	1	1	cringe pilled
+49	1	1	cringe-pilled
+50	1	1	definitely pilled
+51	1	1	desantis-pilled
+52	1	1	dog-pilled
+53	1	1	don-pilled
+54	1	1	dore-pilled
+55	1	1	echochamered, pilled
+56	1	1	factual-pilled
+57	1	1	fails pilled
+58	1	1	fairness pilled
+59	1	1	for "pilled
+60	1	1	fully pilled
+61	1	1	get pilled
+62	1	1	getting "pilled
+63	1	1	grill-pilled
+64	1	1	grindhouse-pilled
+65	1	1	his pilled
+66	1	1	idiot pilled
+67	1	1	it pilled
+68	1	1	jeff-pilled
+69	1	1	jew pilled
+70	1	1	joker-pilled
+71	1	1	juche pilled
+72	1	1	just pilled
+73	1	1	kapital-pilled
+74	1	1	leninist pilled
+75	1	1	lib-pilled
+76	1	1	libertarian pilled
+77	1	1	malarkey pilled
+78	1	1	needle pilled
+79	1	1	nice pilled
+80	1	1	of pilled
+81	1	1	originalist-pilled
+82	1	1	pandemic pilled
+83	1	1	panther-pilled
+84	1	1	poisoned pilled
+85	1	1	qanon pilled
+86	1	1	realist pilled
+87	1	1	really "pilled
+88	1	1	red-~~pilled
+89	1	1	responsibility pilled
+90	1	1	righteous-pilled
+91	1	1	s pilled
+92	1	1	sanders pilled
+93	1	1	sherman-pilled
+94	1	1	shit pilled
+95	1	1	shor-pilled
+96	1	1	so pilled
+97	1	1	someone pilled
+98	1	1	something-pilled
+99	1	1	sounded pilled
+100	1	1	stock pilled
+101	1	1	stoked pilled
+102	1	1	tarheel pilled
+103	1	1	they pilled
+104	1	1	time pilled
+105	1	1	too pilled
+106	1	1	tyranny-pilled
+107	1	1	uneducated pilled
+108	1	1	who pilled
+109	1	1	your pilled
